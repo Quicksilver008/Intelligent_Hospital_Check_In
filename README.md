@@ -25,23 +25,17 @@ The Intelligent Hospital Check-In project is designed to streamline the receptio
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/intelligent-hospital-check-in.git
+   git clone https://github.com/Quicksilver008/Intelligent_Hospital_Check_In.git
    ```
    
 2. Navigate to the project directory:
    ```bash
-   cd intelligent-hospital-check-in
+   cd Intelligent_Hospital_Check_In
    ```
 
 3. Follow the setup instructions in the respective tool directories (`Verilog`, `Logisim`, `Xilinx Vivado`) to configure the environment and run simulations.
 
-## How to Use
 
-1. **Configure the Environment**: Set up your environment based on the hospital's needs, including the number of doctors and types of specialities.
-
-2. **Run the Simulation**: Use the tools provided (Verilog, Logisim, Xilinx Vivado) to run the hospital check-in simulation.
-
-3. **Monitor Outputs**: Review the outputs to ensure accurate patient-doctor matchmaking and to identify any potential improvements in the reception process.
 
 ## Contributing
 
@@ -53,9 +47,7 @@ We welcome contributions to enhance the capabilities of the Intelligent Hospital
 4. Push to the branch (`git push origin feature-branch`).
 5. Open a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 

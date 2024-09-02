@@ -1,2 +1,64 @@
-# Intelligent_Hospital_Check_In
-Install logisim software in your PC and open the "Reception_Desk.circ" file to access the hardware model designed .
+
+# Intelligent Hospital Check-In
+
+**Collaborators**: Mohammad Omar Sulemani, Mayank Singh
+
+## Overview
+
+The Intelligent Hospital Check-In project is designed to streamline the reception process in hospitals by automating the matchmaking of patients to doctors based on their specific medical needs. This system aims to reduce errors, eliminate redundancy, and provide accurate and up-to-date information, ultimately improving the overall efficiency of hospital operations.
+
+## Features
+
+- **Automated Reception Process**: Automatically matches patients with the appropriate doctors according to their medical needs, reducing the workload on reception staff and minimizing errors in the scheduling process.
+  
+- **Improved Scheduling Efficiency**: Enhances the scheduling process by managing patient flow and doctor availability, allowing receptionists to focus on other critical tasks.
+
+- **Customizable to Hospital Needs**: The model is adaptable to the specific needs of different hospitals, considering variables such as the number of doctors, specialities, and types of patient queries.
+
+## Technologies Used
+
+- **Verilog**
+- **Logisim**
+- **Xilinx Vivado**
+
+## Installation and Setup
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/yourusername/intelligent-hospital-check-in.git
+   ```
+   
+2. Navigate to the project directory:
+   ```bash
+   cd intelligent-hospital-check-in
+   ```
+
+3. Follow the setup instructions in the respective tool directories (`Verilog`, `Logisim`, `Xilinx Vivado`) to configure the environment and run simulations.
+
+## How to Use
+
+1. **Configure the Environment**: Set up your environment based on the hospital's needs, including the number of doctors and types of specialities.
+
+2. **Run the Simulation**: Use the tools provided (Verilog, Logisim, Xilinx Vivado) to run the hospital check-in simulation.
+
+3. **Monitor Outputs**: Review the outputs to ensure accurate patient-doctor matchmaking and to identify any potential improvements in the reception process.
+
+## Contributing
+
+We welcome contributions to enhance the capabilities of the Intelligent Hospital Check-In system. Please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -am 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+For questions or suggestions, please contact the collaborators:
+- Mohammad Omar Sulemani
+- Mayank Singh
